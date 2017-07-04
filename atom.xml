@@ -4,9 +4,9 @@
   <subtitle>Make anything better than yesterday.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-07-04T01:54:21.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://montte.github.io/"/>
+  <updated>2017-07-04T07:10:35.000Z</updated>
+  <id>https://montte.github.io/</id>
   
   <author>
     <name>Montte</name>
@@ -16,9 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>testpost</title>
+    <link href="https://montte.github.io/2017/07/04/testpost/"/>
+    <id>https://montte.github.io/2017/07/04/testpost/</id>
+    <published>2017-07-04T07:10:35.000Z</published>
+    <updated>2017-07-04T07:10:35.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>hello world post</title>
-    <link href="http://yoursite.com/2017/07/04/hello-world-post/"/>
-    <id>http://yoursite.com/2017/07/04/hello-world-post/</id>
+    <link href="https://montte.github.io/2017/07/04/hello-world-post/"/>
+    <id>https://montte.github.io/2017/07/04/hello-world-post/</id>
     <published>2017-07-04T01:54:21.000Z</published>
     <updated>2017-07-04T01:54:21.000Z</updated>
     
@@ -31,8 +45,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/07/04/hello-world/"/>
-    <id>http://yoursite.com/2017/07/04/hello-world/</id>
+    <link href="https://montte.github.io/2017/07/04/hello-world/"/>
+    <id>https://montte.github.io/2017/07/04/hello-world/</id>
     <published>2017-07-04T01:05:00.000Z</published>
     <updated>2017-07-04T01:05:00.000Z</updated>
     
